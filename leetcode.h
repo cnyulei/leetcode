@@ -1,4 +1,4 @@
-/*1486. 鏁扮粍寮傛垨鎿嶄綔*/
+/*1486. 数组异或操作*/
 class Solution {
 public:
     int xorOperation(int n, int start) {
@@ -13,7 +13,7 @@ public:
     }
 };
 
-/*1480. 涓�缁存暟缁勭殑鍔ㄦ�佸拰*/
+/*1480. 一维数组的动态和*/
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
